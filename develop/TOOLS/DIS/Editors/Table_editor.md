@@ -51,11 +51,11 @@ When you right-click a row, a shortcut menu appears.
 |------------------------------------------|--------------------------------------------------------------------------------------|
 | Index column, or<br> No index column     | Indicate that the column in question is (not) the index column.                      |
 | Display column, or<br> No Display column | Indicate that the column in question is (not) the display column.                    |
-| RTDisplay \> Enabled/Disabled            | Enable or display the setting in question.                                           |
-| Display \> Enabled/Disabled              | Enable or display the setting in question.                                           |
-| Type \> Enabled/Disabled                 | Enable or display the setting in question.                                           |
-| Save \> Enabled/Disabled                 | Enable or display the setting in question.                                           |
-| Indexed \> Enabled/Disabled              | Enable or display the setting in question.                                           |
+| RTDisplay \> Enabled/Disabled            | Enable or Disable the setting in question.                                           |
+| Display \> Enabled/Disabled              | Enable or Disable the setting in question.                                           |
+| Type \> Enabled/Disabled                 | Enable or Disable the setting in question.                                           |
+| Save \> Enabled/Disabled                 | Enable or Disable the setting in question.                                           |
+| Indexed \> Enabled/Disabled              | Enable or Disable the setting in question.                                           |
 | Go To XML<br>(Apply Changes)             | Save all changes and return to the XML editor.                                       |
 | Remove column(s)                         | Delete the selected column(s).<br> Alternatively, you can also press the DELETE key. |
 
