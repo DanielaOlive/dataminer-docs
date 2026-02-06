@@ -16,7 +16,7 @@ You can **create virtual functions using DataMiner Integration Studio** (version
 
 1. Press Ctrl + K + X and navigate to the *DIS Functions Root Snippet* available under *DIS* > *Function*.
 
-   ![New File window](~/dataminer/images/FunctionCodeSnippet.png)
+   ![DIS Functions Root Snippet](~/dataminer/images/FunctionCodeSnippet.png)
 
 1. Specify the connector name in the appropriate tag. Example below is for *Newtec M6100*.
 
